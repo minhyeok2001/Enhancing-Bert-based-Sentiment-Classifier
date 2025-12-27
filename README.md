@@ -1,6 +1,6 @@
 ## BERT-based sentiment classifier Analysis
 
-The goal of this project is to see whether explicitly boosting emotionally-charged tokens inside BERT embeddings can improve sentiment classification.
+The goal of this project (ML-teamproject/Embedding) is to see whether explicitly boosting emotionally-charged tokens inside BERT embeddings can improve sentiment classification.
 
 The dataset is a 12K IMDb movie review subset, with binary labels: positive / negative.
 
